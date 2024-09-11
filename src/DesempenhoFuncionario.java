@@ -28,6 +28,9 @@ public class DesempenhoFuncionario {
     }
 
     System.out.println("Então o funcionário " + funcionario + ", ficou com a nota " + pontuacao + ".Gabriel");
+
+    sc.close();
     
         }
+        
 }

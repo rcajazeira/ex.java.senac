@@ -27,6 +27,8 @@ public class emprestimoBancario {
 
         sc.close();
 
+        System.out.println("Número de parcelas " + numeroParcelas);
+
 
     }
     

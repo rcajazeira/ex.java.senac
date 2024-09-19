@@ -1,18 +1,57 @@
-## Getting Started
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Documentação do Projeto</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            line-height: 1.6;
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+        pre {
+            background: #f4f4f4;
+            padding: 10px;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+    <h1>Título do Projeto</h1>
+    <p>Uma breve descrição do que é o seu projeto.</p>
 
-## Folder Structure
+    <h2>Conteúdo</h2>
+    <ul>
+        <li><a href="#instalacao">Instalação</a></li>
+        <li><a href="#uso">Uso</a></li>
+        <li><a href="#contribuicao">Contribuição</a></li>
+        <li><a href="#licenca">Licença</a></li>
+    </ul>
 
-The workspace contains two folders by default, where:
+    <h2 id="instalacao">Instalação</h2>
+    <p>Instruções sobre como instalar o projeto.</p>
+    <pre><code>git clone https://github.com/seu_usuario/seu_projeto.git</code></pre>
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+    <h2 id="uso">Uso</h2>
+    <p>Instruções sobre como usar o projeto.</p>
+    <pre><code>npm start</code></pre>
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+    <h2 id="contribuicao">Contribuição</h2>
+    <p>Como contribuir para o projeto.</p>
+    <ul>
+        <li>Faça um fork do repositório.</li>
+        <li>Crie uma nova branch.</li>
+        <li>Envie um pull request.</li>
+    </ul>
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+    <h2 id="licenca">Licença</h2>
+    <p>Este projeto está licenciado sob a Licença MIT.</p>
 
-## Dependency Management
+</body>
+</html>
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).

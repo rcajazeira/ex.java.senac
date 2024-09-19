@@ -1,3 +1,22 @@
+## Getting Started
+
+Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+
+## Folder Structure
+
+The workspace contains two folders by default, where:
+
+- `src`: the folder to maintain sources
+- `lib`: the folder to maintain dependencies
+
+Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+
+> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+
+## Dependency Management
+
+The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -22,8 +41,8 @@
 </head>
 <body>
 
-    <h1>Título do Projeto</h1>
-    <p>Uma breve descrição do que é o seu projeto.</p>
+    <h1>Atividade sobre Exercícios de Java</h1>
+    <p>Essa atividade vem como um complemento para atividade de codificações de Java para exercitar o conhecimento.</p>
 
     <h2>Conteúdo</h2>
     <ul>
@@ -35,13 +54,14 @@
 
     <h2 id="instalacao">Instalação</h2>
     <p>Instruções sobre como instalar o projeto.</p>
-    <pre><code>git clone https://github.com/seu_usuario/seu_projeto.git</code></pre>
+    <pre><code>git clone https://github.com/seu_usuario/seu_projeto.git
+Ou pode ir em downloads e abrir no eclipse ou no vscode</code></pre>
 
     <h2 id="uso">Uso</h2>
-    <p>Instruções sobre como usar o projeto.</p>
+    <p>Instruções sobre como usar o projeto. Basicamente abrindo em uma das IDE's de escolha, basta rodar qualquer um dos códigos.</p>
     <pre><code>npm start</code></pre>
 
-    <h2 id="contribuicao">Contribuição</h2>
+    <h2 id="contribuicao">Contribuição - Rafael Cajazeira Fullstack</h2>
     <p>Como contribuir para o projeto.</p>
     <ul>
         <li>Faça um fork do repositório.</li>
@@ -54,4 +74,5 @@
 
 </body>
 </html>
+
 

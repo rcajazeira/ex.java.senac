@@ -1,78 +1,60 @@
-## Getting Started
+<h1 align="center"> Projeto de atividades sobre Linguagem de programação JAVA </h1>
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licenÃ§a">LicenÃ§a</a>
+</p>
 
-## Folder Structure
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
 
-The workspace contains two folders by default, where:
+<br>
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## ðŸš€ Tecnologias
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+- Uso da linguagem de programação JAVA
+- IDE usada VSCODE
 
-## Dependency Management
+## ðŸ’» Projeto
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Esse projeto tem como finalidade aprendizado aprendizado sobre linguagem de programação JAVA.
 
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Documentação do Projeto</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-            line-height: 1.6;
-        }
-        h1, h2, h3 {
-            color: #333;
-        }
-        pre {
-            background: #f4f4f4;
-            padding: 10px;
-            border-radius: 5px;
-        }
-    </style>
-</head>
-<body>
+## âš  Como usar
 
-    <h1>Atividade sobre Exercícios de Java</h1>
-    <p>Essa atividade vem como um complemento para atividade de codificações de Java para exercitar o conhecimento.</p>
+Para copiar e executar essa aplicaÃ§Ã£o, vocÃª precisa de trÃªs prÃ©-requisitos: [Git](https://git-scm.com), [VSCODE](https://code.visualstudio.com/) + [ECLIPSE](https://eclipseide.org/) intalados no seu computador.
 
-    <h2>Conteúdo</h2>
-    <ul>
-        <li><a href="#instalacao">Instalação</a></li>
-        <li><a href="#uso">Uso</a></li>
-        <li><a href="#contribuicao">Contribuição</a></li>
-        <li><a href="#licenca">Licença</a></li>
-    </ul>
+No terminal, digite os comandos a seguir:
 
-    <h2 id="instalacao">Instalação</h2>
-    <p>Instruções sobre como instalar o projeto.</p>
-    <pre><code>git clone https://github.com/seu_usuario/seu_projeto.git
-Ou pode ir em downloads e abrir no eclipse ou no vscode</code></pre>
+### Baixar e instalar o projeto
 
-    <h2 id="uso">Uso</h2>
-    <p>Instruções sobre como usar o projeto. Basicamente abrindo em uma das IDE's de escolha, basta rodar qualquer um dos códigos.</p>
-    <pre><code>npm start</code></pre>
+```bash
+# Clonar esse repositÃ³rio
+$ git clone https://github.com/analuisadev/E-Commerce.git
 
-    <h2 id="contribuicao">Contribuição - Rafael Cajazeira Fullstack</h2>
-    <p>Como contribuir para o projeto.</p>
-    <ul>
-        <li>Faça um fork do repositório.</li>
-        <li>Crie uma nova branch.</li>
-        <li>Envie um pull request.</li>
-    </ul>
+# VÃ¡ para o ropositÃ³rio
+$ cd ex.java.senac
 
-    <h2 id="licenca">Licença</h2>
-    <p>Este projeto está licenciado sob a Licença MIT.</p>
+# Instale as dependÃªncias
+$ npm install
+```
 
-</body>
-</html>
+### Executar na ide
 
+```bash
+# Execute em outro terminal (dentro de cada código)
+# Excecute na ide eclipse
+$ npx expo
+```
+## :memo: LicenÃ§a
+
+Esse projeto estÃ¡ sob a licenÃ§a MIT.
+
+---
+
+Feito com esmero by Rafael Cajazeira
 
